@@ -41,7 +41,7 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤔 BOJ & Solve.ac 🤔 </h2>
     
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi2242)](https://solved.ac/cbk1217)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cbk1217)](https://solved.ac/cbk1217)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hi2242&theme=dark)
 
 <br>
