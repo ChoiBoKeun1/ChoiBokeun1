@@ -28,9 +28,11 @@
 <p>
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=amazons3&logoColor=white">
 </p>
 
 ### Collaboration
@@ -56,12 +58,26 @@
 
 <br>
 
+### 🎬 Utopia
+**정식 콘텐츠와 사용자 숏폼을 제공하는 OTT 콘텐츠 서비스 플랫폼**
+
+- 관리자 콘텐츠 관리 및 **사용자 콘텐츠 재생 API 구현**
+- Redis를 활용한 **조회수 버퍼링 및 DB 반영 스케줄러 구현**
+- **시청 이력 · 이어보기 기능 구현**
+- Redis ZSet 기반 **시간 단위 인기차트 구현**
+- MinIO / S3 환경 분리와 **CloudFront 기반 콘텐츠 재생 경로 구성 및 배포 참여**
+- API 서버와 CDN 간 도메인 불일치로 Signed Cookie 저장이 차단되어 발생한 **HLS 403 오류 해결**
+
+👉 [Repository](https://github.com/uplus-final-02/Back-end)
+
+<br>
+
 ### 👥 Gathering
 **팀 프로젝트 모집 및 매칭 커뮤니티**
 
 - QueryDSL을 활용한 **동적 검색 · 필터링 · 정렬 구현**
 - 목록 조회를 `List` 반환 방식에서 **Page 기반 페이지네이션 구조로 개선**
-- 지원 당시 프로필을 보존하기 위한 **Profile Snapshot 구조 구현**
+- 지원 당시 프로필 정보를 보존하기 위한 **Profile Snapshot 구조 구현**
 - Spring Boot 기반 REST API 개발
 - Docker · GitHub Actions · AWS EC2 기반 **배포 과정 경험**
 
